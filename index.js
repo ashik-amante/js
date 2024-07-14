@@ -7,7 +7,7 @@ number[3] = 100;
 
 console.log(number);
 
-// find infx of an element 
+// find index of an element 
 
 var position = number.indexOf(6)
 console.log(position);
