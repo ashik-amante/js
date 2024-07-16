@@ -7,3 +7,5 @@ for ( i= 0; i < numbers.length; i++){
     }
     console.log(element);
 }
+
+//  skip kore jeta mile na , one kind of filter hisabe kaj kore 
