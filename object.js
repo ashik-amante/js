@@ -22,5 +22,15 @@ console.log(keys);
 var values = Object.values(student);
 console.log(values);
 
+// diffrent types of assingment 
+
+student.home = 'dhaka';
+
+console.log(student);
+
+var proname = 'headset';
+mycomputer[proname] = 30;
+
+console.log(mycomputer);
 
 

@@ -15,6 +15,9 @@ console.log(pencount);
 var shoescount = shoppingCart['shoes'];
 console.log(shoescount);
 
+
+// keys and values 
+
 var property = Object.keys(shoppingCart);
 console.log(property);
 
