@@ -13,3 +13,5 @@ console.log('Destructuring');
 
 [first, second] = [second,first]
 console.log(first,second);
+
+
